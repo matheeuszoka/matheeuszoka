@@ -18,7 +18,7 @@ Sou um estudante dedicado de **Sistemas de Informação**, sempre buscando apren
 
 ### Conecte-se Comigo
 
-- 💼 **LinkedIn**: [seu-linkedin]  
-- 🐦 **Twitter/X**: [@seu-usuario]  
+- 💼 **LinkedIn**: [matheeuszoka]  
+- 🐦 **Twitter/X**: [@matheeuszoka]  
 
 _"O código é poesia em lógica"_ 🚀
