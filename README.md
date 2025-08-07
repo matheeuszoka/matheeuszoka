@@ -1,24 +1,65 @@
-## Olá, eu sou **Matheus Gabriel C. Crespilho**! 👋
+<h1 align="left">Fala jovem, beleza?</h1>
 
-- 👨‍💻 **GitHub**: @matheeuszoka  
-- 👀 **Interesses**: Desenvolvimento de aplicações em Java e Back-end  
-- 🌱 **Formação**: Cursando o 3º ano de **Sistemas de Informação** na **Unipar Paranavaí**  
-- 💞 **Objetivo**: Colaborar em projetos inovadores e desafiadores na área de TI  
-- 📫 **Contato**: [contato.matheeeus@gmail.com]  
-- 😄 **Pronomes**: Ele/Dele  
-- ⚡ **Curiosidade**: Sou apaixonado por pizza, lasanha e sertanejo, adoro jogos, filmes e, claro, a vida!
+###
 
----
+<p align="left">Me chamo Matheus Gabriel, tenho 24 anos, estudante do 6º período de Sistemas de Informações na Universidade Paranaense, unidade de Paranavaí.</p>
 
-### Sobre Mim
+###
 
-Sou um estudante dedicado de **Sistemas de Informação**, sempre buscando aprender e evoluir na área de tecnologia. Tenho um grande interesse em trabalhar com desenvolvimento de aplicações, especialmente no contexto de **Java** e **Back-end**. Estou sempre aberto a novas oportunidades e colaborações, e adoraria conectar com outros profissionais e entusiastas da área. Sinta-se à vontade para explorar meus repositórios e entrar em contato!
+<h2 align="left">Sobre mim!</h2>
 
----
+###
 
-### Conecte-se Comigo
+<p align="left">✨ Criando Bugs desde 2019;<br>📚 Atualmente estudando Sistemas de informações pela Universidade Paranaense, unidade de Paranavaí;<br>🎯 Metas:  Me tornar bom naquilo que me propus me especializar.</p>
 
-- 💼 **LinkedIn**: [matheeuszoka]  
-- 🐦 **Twitter/X**: [@matheeuszoka]  
+###
 
-_"O código é poesia em lógica"_ 🚀
+<h2 align="left">Linguagens que trabalho</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="www.linkedin.com/in/matheeuszoka" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/matheeuszoka" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://x.com/matheeuszoka" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
+  </a>
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matheeuszoka/matheeuszoka/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/matheeuszoka/matheeuszoka/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/matheeuszoka/matheeuszoka/output/pacman-contribution-graph.svg">
+</picture>
+
+###
