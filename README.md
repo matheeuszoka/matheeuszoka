@@ -56,6 +56,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/matheeuszoka/output/snake.svg" alt="Snake animation" />
 
 ###
