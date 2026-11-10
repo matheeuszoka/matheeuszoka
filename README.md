@@ -67,9 +67,16 @@ Suporte e monitoramento de dispositivos: CPU, memória e rede, captura de tela e
 
 ## 📊 Entre um commit e outro
 
-<div align="center">
-  <img width="49%" src="https://SEU-DEPLOY.vercel.app/api?username=matheeuszoka&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br&count_private=true" alt="Estatísticas do GitHub" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=matheeuszoka&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
-</div>
+<p align="center">
+  <img src="github-metrics.svg" alt="Métricas do GitHub" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matheeuszoka/matheeuszoka/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/matheeuszoka/matheeuszoka/output/github-snake.svg" />
+    <img alt="Cobrinha comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/matheeuszoka/matheeuszoka/output/github-snake.svg" />
+  </picture>
+</p>
 
 <p align="center"><strong>Sempre tem algo novo para aprender, construir ou depurar.</strong></p>
