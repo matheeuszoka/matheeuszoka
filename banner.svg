@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Matheus Gabriel - Desenvolvedor full stack e infraestrutura">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#16161e"/>
+      <stop offset="1" stop-color="#1f2335"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7aa2f7"/>
+      <stop offset="1" stop-color="#38bdae"/>
+    </linearGradient>
+    <clipPath id="card"><rect width="1200" height="300" rx="16"/></clipPath>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.2" fill="#2a2e45"/>
+    </pattern>
+    <style>
+      .sans { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; }
+      .mono { font-family: 'Fira Code', 'JetBrains Mono', Consolas, 'Courier New', monospace; }
+      .pulse { animation: pulse 2.4s ease-in-out infinite; }
+      .pulse.d1 { animation-delay: .6s; }
+      .pulse.d2 { animation-delay: 1.2s; }
+      .pulse.d3 { animation-delay: 1.8s; }
+      .flow { stroke-dasharray: 4 8; animation: flow 1.6s linear infinite; }
+      .cursor { animation: blink 1s step-end infinite; }
+      @keyframes pulse { 0%, 100% { opacity: .35; } 50% { opacity: 1; } }
+      @keyframes flow { to { stroke-dashoffset: -24; } }
+      @keyframes blink { 50% { opacity: 0; } }
+    </style>
+  </defs>
+
+  <rect width="1200" height="300" rx="16" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="16" fill="url(#dots)"/>
+  <rect x="0" y="292" width="1200" height="8" fill="url(#accent)" opacity=".9" clip-path="url(#card)"/>
+
+  <!-- Nome e título -->
+  <g class="sans">
+    <text x="64" y="104" fill="#7aa2f7" font-size="20" font-weight="600" letter-spacing="3">OLÁ, EU SOU O</text>
+    <text x="62" y="160" fill="#e6edf3" font-size="54" font-weight="700">Matheus Gabriel</text>
+    <text x="64" y="202" fill="#a9b1d6" font-size="22">Desenvolvedor full stack com pé na infraestrutura</text>
+  </g>
+  <g class="mono" font-size="15" fill="#565f89">
+    <text x="64" y="244">Java · Spring Boot · React · Flutter · Linux · Docker · MikroTik</text>
+  </g>
+
+  <!-- Topologia: app → servidor → rede -->
+  <g fill="none" stroke="#3b4261" stroke-width="2">
+    <path d="M760 90 L880 150 L1000 90"/>
+    <path d="M880 150 L880 230"/>
+    <path d="M1000 90 L1120 150"/>
+    <path d="M880 230 L1000 230 L1120 150"/>
+  </g>
+  <g fill="none" stroke="url(#accent)" stroke-width="2" class="flow">
+    <path d="M760 90 L880 150 L880 230 L1000 230 L1120 150"/>
+  </g>
+
+  <g class="mono" font-size="12" text-anchor="middle">
+    <g>
+      <circle cx="760" cy="90" r="24" fill="#1a1b27" stroke="#7aa2f7" stroke-width="2"/>
+      <circle cx="760" cy="90" r="6" fill="#7aa2f7" class="pulse"/>
+      <text x="760" y="134" fill="#a9b1d6">web</text>
+    </g>
+    <g>
+      <circle cx="1000" cy="90" r="24" fill="#1a1b27" stroke="#7aa2f7" stroke-width="2"/>
+      <circle cx="1000" cy="90" r="6" fill="#7aa2f7" class="pulse d1"/>
+      <text x="1000" y="134" fill="#a9b1d6">mobile</text>
+    </g>
+    <g>
+      <rect x="852" y="124" width="56" height="52" rx="10" fill="#1a1b27" stroke="#38bdae" stroke-width="2"/>
+      <rect x="864" y="138" width="32" height="5" rx="2" fill="#38bdae" class="pulse d2"/>
+      <rect x="864" y="150" width="32" height="5" rx="2" fill="#38bdae" class="pulse d3"/>
+      <rect x="864" y="162" width="32" height="5" rx="2" fill="#38bdae" class="pulse"/>
+      <text x="836" y="155" text-anchor="end" fill="#a9b1d6">api</text>
+    </g>
+    <g>
+      <circle cx="880" cy="230" r="22" fill="#1a1b27" stroke="#38bdae" stroke-width="2"/>
+      <circle cx="880" cy="230" r="6" fill="#38bdae" class="pulse d1"/>
+      <text x="880" y="272" fill="#a9b1d6">db</text>
+    </g>
+    <g>
+      <circle cx="1000" cy="230" r="22" fill="#1a1b27" stroke="#38bdae" stroke-width="2"/>
+      <circle cx="1000" cy="230" r="6" fill="#38bdae" class="pulse d2"/>
+      <text x="1000" y="272" fill="#a9b1d6">server</text>
+    </g>
+    <g>
+      <rect x="1094" y="128" width="52" height="44" rx="8" fill="#1a1b27" stroke="#7aa2f7" stroke-width="2"/>
+      <circle cx="1108" cy="160" r="3" fill="#38bdae" class="pulse"/>
+      <circle cx="1120" cy="160" r="3" fill="#38bdae" class="pulse d1"/>
+      <circle cx="1132" cy="160" r="3" fill="#38bdae" class="pulse d2"/>
+      <text x="1120" y="194" fill="#a9b1d6">router</text>
+    </g>
+  </g>
+
+  <g class="mono" font-size="14">
+    <text x="64" y="58" fill="#565f89">~/matheeuszoka <tspan fill="#38bdae">$</tspan> <tspan fill="#a9b1d6">docker compose up -d</tspan><tspan fill="#7aa2f7" class="cursor"> ▍</tspan></text>
+  </g>
+</svg>
